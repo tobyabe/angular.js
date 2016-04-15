@@ -128,6 +128,8 @@ Once you have Node.js installed on your machine, you can download the tool depen
 ```
 npm install
 ```
+<div class="alert alert-info"> If you are installing in 
+Windows 7/10 machine use powershell to installl npm to avoid installation errors </div>
 
 This command reads angular-phonecat's `package.json` file and downloads the following tools
 into the `node_modules` directory:
